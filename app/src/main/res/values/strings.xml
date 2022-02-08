@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GuessExtended</string>
+    <string name="btnToHome">Back To Home Page</string>
+    <!-- Splash Screen -->
+
+    <string name="gameName">Guess That Number!</string>
+    <string name="devName">By Gabriel Breeding</string>
+
+    <!-- Main Screen -->
+    <string name="entryHint">Enter a Guess Between 1 - 100 Here</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnRank">Rank</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnTotals">Totals</string>
+
+    <!-- Totals Screen -->
+    <string name="totalsTitle">Total Ranks</string>
+</resources>
